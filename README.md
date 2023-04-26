@@ -1,3 +1,5 @@
+0x1B. C - Sorting algorithms & Big O
+
 # Sorting Algorithms
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztBz3thnxU2MZwqucC6GD-YnuzDLpXk9weg&usqp=CAU)
